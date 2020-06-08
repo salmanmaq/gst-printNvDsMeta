@@ -1,2 +1,2 @@
 # gst-printNvDsMeta
-Prints Nvidia Deepstream metadata to terminal
+GStreamer plugin that prints Nvidia Deepstream metadata to terminal
