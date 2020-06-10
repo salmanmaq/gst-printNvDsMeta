@@ -1,8 +1,10 @@
 #ifndef __PLZPRINTMETA_H__
 #define __PLZPRINTMETA_H__
 
+#include <cuda_runtime_api.h>
 #include <gst/gst.h>
 #include <gst/base/gstbasetransform.h>
+#include <gstnvdsinfer.h>
 #include <gstnvdsmeta.h>
 
 G_BEGIN_DECLS
