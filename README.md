@@ -3,7 +3,7 @@ GStreamer plugin that prints Nvidia Deepstream metadata to terminal
 
 ## Installation
 
-Set DEEPSTREAM_VERSION X.X in CMakeLists.txt
+Set DEEPSTREAM_VERSION X.X and CUDA_VER XX.X in CMakeLists.txt
 
 ```
 mkdir build && cd build
