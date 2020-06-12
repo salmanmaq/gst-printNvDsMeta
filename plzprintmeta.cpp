@@ -10,9 +10,9 @@ GST_DEBUG_CATEGORY_STATIC (gst_plzprintmeta_debug);
 static GQuark _dsmeta_quark = 0;
 
 const gchar sgie_classes_str[23][32] = {
-  "023100014074", "3320", "4011", "4381", "4408", "4593", "4664", "93283", "94016",
-  "94020", "94053", "94068", "94295", "beetroot", "broccoli", "brusselsprout",
-  "chineseeggplant", "corn", "garlic", "greenbeans", "jalepeno", "serrano", "turnip"
+  "A", "B", "C", "D", "E", "F", "G", "H", "I",
+  "J", "K", "L", "M", "N", "O", "P",
+  "Q", "R", "S", "T", "U", "V", "W"
 };
 
 #define GST_CAPS_FEATURE_MEMORY_NVMM "memory:NVMM"
